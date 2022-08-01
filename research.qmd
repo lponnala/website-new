@@ -1,0 +1,160 @@
+---
+title: ""
+---
+
+<h4>Finance</h4>
+
+[Indexology Blog](https://www.indexologyblog.com/author/lalit-ponnala/) posts
+
+- [S&P 500 Twitter Sentiment Indices: Factor Analysis](https://www.indexologyblog.com/2022/01/13/sp-500-twitter-sentiment-indices-factor-analysis/)
+- [S&P 500 Twitter Sentiment Indices: Performance Characteristics](https://www.indexologyblog.com/2022/01/10/sp-500-twitter-sentiment-indices-performance-characteristics/)
+- [Introducing the S&P Multi-Asset Dynamic Inflation Strategy Index – Part 2](https://www.indexologyblog.com/2021/09/09/introducing-the-sp-multi-asset-dynamic-inflation-strategy-index-part-2/)
+- [Comparing Bottom-Up versus Top-Down Multi-Factor Construction](https://www.indexologyblog.com/2020/05/13/comparing-bottom-up-versus-top-down-multi-factor-construction/)
+
+[S&P DJI Research](https://www.spglobal.com/spdji/en/contributors/lalit-ponnala/) papers
+
+- [A Dynamic Multi-Asset Approach to Inflation Hedging](https://www.spglobal.com/spdji/en/documents/research/research-a-dynamic-multi-asset-approach-to-inflation-hedging.pdf) (&#x1F3C6; highly commended by [Savvy Investor](https://www.savvyinvestor.net/blog/awards-best-quant-white-paper-2021))
+- [Exploring Techniques in Multi-Factor Index Construction](https://www.spglobal.com/spdji/en/documents/research/research-exploring-techniques-in-multi-factor-index-construction.pdf)
+
+<hr>
+
+<h4>Computational Biology</h4>
+
+Publications listed in reverse chronological order. For citations, see [Google Scholar](http://scholar.google.com/citations?user=9W9WkV8AAAAJ) or [PubMed](http://www.ncbi.nlm.nih.gov/pubmed/?term=lalit+ponnala). 
+
+Journal articles
+
+1. Jui-Yun Rei Liao, Giulia Friso, Evan S. Forsythe, Elena J.S. Michel, Alissa M. Williams, Sasha S. Boguraev, **Lalit Ponnala**, Daniel B. Sloan, Klaas J. van Wijk. *Proteomics, phylogenetics, and co-expression analyses indicate novel interactions in the plastid CLP chaperone-protease system.* Journal of Biological Chemistry, 2022, 101609,
+ISSN 0021-9258, https://doi.org/10.1016/j.jbc.2022.101609. [[abstract](https://www.sciencedirect.com/science/article/pii/S0021925822000497)]
+1. Elena J S Michel, **Lalit Ponnala**, Klaas J van Wijk. *Tissue-type specific accumulation of the plastoglobular proteome, transcriptional networks and plastoglobular functions.* Journal of Experimental Botany, 2021; https://doi.org/10.1093/jxb/erab175 [[abstract](https://academic.oup.com/jxb/advance-article-abstract/doi/10.1093/jxb/erab175/6245087)] [[data](https://datadryad.org/stash/dataset/doi:10.5061/dryad.83bk3j9r5)]
+1. Orsi RH, Chaturongakul S, Oliver HF, **Ponnala L**, Gaballa A, Wiedmann M. *Alternative σ Factors Regulate Overlapping as Well as Distinct Stress Response and Metabolic Functions in Listeria monocytogenes under Stationary Phase Stress Condition*. Pathogens. 2021; 10(4):411. https://doi.org/10.3390/pathogens10040411 [[abstract](https://www.mdpi.com/2076-0817/10/4/411)]
+1. Nazmul H. Bhuiyan, Elden Rowland, Giulia Friso, **Lalit Ponnala**, Elena JS Michel, Klaas J. van Wijk. *Auto-catalytic processing and substrate specificity of Arabidopsis chloroplast glutamyl peptidase.* Plant Physiology 2020 Jul. doi: 10.1104/pp.20.00752 [[abstract](http://www.plantphysiol.org/content/early/2020/07/06/pp.20.00752)]
+1. Majeran W, Le Caer J-P, **Ponnala L**, Meinnel T, Giglione C. *Targeted profiling of A. thaliana sub-proteomes illuminates new co- and post-translationally N-terminal Myristoylated proteins.* The Plant Cell. 2018 Mar;30(3):543-562. doi: 10.1105/tpc.17.00523. [[abstract](https://www.ncbi.nlm.nih.gov/m/pubmed/29453228/)]
+1. Mirjam Blattner, Deli Liu, Brian D. Robinson, Dennis Huang, Anton Poliakov, Dong Gao, Srilakshmi Nataraj, Lesa D. Deonarine, Michael A. Augello, Verena Sailer, **Lalit Ponnala**, Michael Ittmann, Arul M. Chinnaiyan, Andrea Sboner, Yu Chen, Mark A. Rubin, Christopher E. Barbieri. *SPOP Mutation Drives Prostate Tumorigenesis In Vivo through Coordinate Regulation of PI3K/mTOR and AR Signaling.* Cancer Cell. 2017 Mar 13; 31(3):436-451. doi: 10.1016/j.ccell.2017.02.004. [[abstract](https://www.ncbi.nlm.nih.gov/pubmed/28292441)]
+1. Kenji Nishimura, Janina Apitz, Giulia Friso, Jitae Kim, **Lalit Ponnala**, Bernhard Grimm and Klaas J. van Wijk. *Discovery of a Unique Clp Component, ClpF, in Chloroplasts: A Proposed Binary ClpF-ClpS1 Adaptor Complex Functions in Substrate Recognition and Delivery.* The Plant Cell. 2015 Oct;27(10):2677-91. doi: 10.1105/tpc.15.00574. [[abstract](http://www.plantcell.org/content/early/2015/09/29/tpc.15.00574.abstract)]
+1. Jitae Kim, Matthew S. Kimber, Kenji Nishimura, Giulia Friso, Lance Schultz, **Lalit Ponnala** and Klaas J. van Wijk. *Structures, Functions, and Interactions of ClpT1 and ClpT2 in the Clp Protease System of Arabidopsis Chloroplasts.* The Plant Cell. 2015 May;27(5):1477-96. doi: 10.1105/tpc.15.00106. [[abstract](http://www.plantcell.org/content/early/2015/04/28/tpc.15.00106.abstract)]
+1. Zuluaga, A.P., Vega-Arreguin, J.C., Fei, Z., **Ponnala, L.**, Lee, S.J., Matas, A.J., Patev, S., Fry, W.E. and Rose, J.K.C. *Transcriptional dynamics of Phytophthora infestans during sequential stages of hemibiotrophic infection of tomato.* Molecular Plant Pathology 2016 Jan;17(1):29-41. doi: 10.1111/mpp.12263. [[abstract](http://www.ncbi.nlm.nih.gov/pubmed/25845484)]
+1. Nazmul H. Bhuiyan, Giulia Friso, Anton Poliakov, **Lalit Ponnala** and Klaas J. van Wijk. *MET1 Is a Thylakoid-Associated TPR Protein Involved in Photosystem II Supercomplex Formation and Repair in Arabidopsis*. The Plant Cell. 2015 Jan;27(1):262-85. doi: 10.1105/tpc.114.132787. [[abstract](http://www.plantcell.org/content/early/2015/01/13/tpc.114.132787.short)]
+1. **Lalit Ponnala**, Yupeng Wang, Qi Sun, Klaas J. van Wijk. *Correlation of mRNA and protein abundance in the developing maize leaf*. The Plant Journal 2014 May; 78(3): 424-440. doi: 10.1111/tpj.12482 [[abstract](http://onlinelibrary.wiley.com/doi/10.1111/tpj.12482/abstract)]
+1. Nishimura K, Asakura Y, Friso G, Kim J, Oh SH, Rutschow H, **Ponnala L**, van Wijk KJ. *ClpS1 is a conserved substrate selector for the chloroplast Clp protease system in Arabidopsis thaliana*. The Plant Cell 2013 Jun; 25(6): 2276-301. doi: 10.1105/tpc.113.112557
+[[abstract](http://www.plantcell.org/content/25/6/2276.abstract)] [[www](http://www.plantcell.org/content/25/6/2276.full)]
+1. Peter K. Lundquist, Anton Poliakov, Lisa Giacomelli, Giulia Friso, Mason Appel, Ryan P. McQuinn, Stuart B. Krasnoff, Elden Rowland, **Lalit Ponnala**, Qi Sun and Klaas J. van Wijk. *Loss of Plastoglobule Kinases ABC1K1 and ABC1K3 Causes Conditional Degreening, Modified Prenyl-Lipids, and Recruitment of the Jasmonic Acid Pathway*. The Plant Cell 2013 May; 25(5): 1818-39. doi: 10.1105/tpc.113.111120
+[[abstract](http://www.plantcell.org/content/25/5/1818.abstract)] [[www](http://www.plantcell.org/content/25/5/1818.full)]
+1. Jitae Kim, Paul Dominic Olinares, Soo-hyun Oh, Stefania Ghisaura, Anton Poliakov, **Lalit Ponnala** and Klaas J. van Wijk. *Modified Clp protease complex in the ClpP3 null mutant and consequences for chloroplast development and function in Arabidopsis thaliana*. Plant Physiology 2013 May; 162(1): 157-79. doi: 10.1104/pp.113.215699
+[[abstract](http://www.plantphysiol.org/content/162/1/157.abstract)] [[www](http://www.plantphysiol.org/content/162/1/157.full)]
+1. Lin C, den Bakker HC, Suzuki H, Lefebure T, **Ponnala L**, Sun Q, Stanhope MJ, Wiedmann M, Duhamel GE. *Complete genome sequence of the porcine strain Brachyspira pilosicoli P43/6/78T*. Genome Announcements 2013 Jan-Feb 1(1): e00215-12. doi: 10.1128/genomeA.00215-12
+[[abstract](http://genomea.asm.org/content/1/1/e00215-12.abstract)] [[www](http://genomea.asm.org/content/1/1/e00215-12.full)]
+1. Elizabeth M Takacs, Jie Li, Chuanlong Du, **Lalit Ponnala**, Diane Janick-Buckner, Jianming Yu, Gary J Muehlbauer, Patrick S Schnable, Marja C P Timmermans, Qi Sun, Dan Nettleton, Michael J Scanlon. *Ontogeny of the Maize Shoot Apical Meristem*. The Plant Cell 2012 Aug; 24(8): 3219-34. doi: 10.1105/tpc.112.099614
+[[abstract](http://www.plantcell.org/content/24/8/3219.abstract)] [[www](http://www.plantcell.org/content/24/8/3219.full)]
+1. Judson A. Ward, **Lalit Ponnala** and Courtney A. Weber. *Strategies for transcriptome analysis in nonmodel plants*. American Journal of Botany 2012 Feb; 99(2): 267-76. doi: 10.3732/ajb.1100334
+[[abstract](http://www.amjbot.org/content/99/2/267)] [[www](http://www.amjbot.org/content/99/2/267.full)]
+1. Wojciech Majeran, Giulia Friso, Yukari Asakura, Xian Qu, Mingshu Huang, **Lalit Ponnala**, Kenneth P. Watkins, Alice Barkan and Klaas J. van Wijk. *Nucleoid-enriched proteomes in developing plastids and chloroplasts from maize leaves; a new conceptual framework for nucleoid functions*. Plant Physiology 2012 Jan; 158(1): 156-89. doi: 10.1104/pp.111.188474
+[[abstract](http://www.plantphysiol.org/content/158/1/156.abstract)] [[www](http://www.plantphysiol.org/content/158/1/156.full)]
+1. A.J. Matas, T.H. Yeats, G.J. Buda, Y. Zheng, S. Chatterjee, T. Tohge, **L. Ponnala**, A.R. Fernie, R.E. Stark, J. Fei, J.J. Giovannoni, and J.K.C. Rose. *Tissue and cell type specific transcriptome profiling of expanding tomato fruit provides insights into metabolic and regulatory specialization and cuticle formation*. The Plant Cell 2011 Nov; 23(11): 3893-910
+[[abstract](http://www.plantcell.org/content/23/11/3893)] [[www](http://www.plantcell.org/content/23/11/3893.full)]
+1. Kukekova AV, Johnson JL, Teiling C, Li L, Oskina IN, Kharlamova AV, Gulevich RG, Padte R, Dubreuil MM, Vladimirova AV, Shepeleva DV, Shikhevich SG, Sun Q, **Ponnala L**, Temnykh SV, Trut LN, Acland GM. *Sequence comparison of prefrontal cortical brain transcriptome from a tame and an aggressive silver fox (Vulpes vulpes)*. BMC Genomics 2011 Oct; 12:482. 
+[[abstract](http://www.biomedcentral.com/1471-2164/12/482/abstract)] [[www](http://www.biomedcentral.com/1471-2164/12/482)]
+1. Poliakov A, Russell CW, **Ponnala L**, Hoops HJ, Sun Q, Douglas AE, van Wijk KJ. *Large-scale label-free quantitative proteomics of the pea aphid-Buchnera symbiosis*. Molecular and Cellular Proteomics 2011 Jun; 10(6): M110.007039
+[[abstract](http://www.mcponline.org/content/10/6/M110.007039.abstract)] [[www](http://www.mcponline.org/content/10/6/M110.007039.long)]
+1. Scaria J, **Ponnala L**, Janvilisri T, Yan W, Mueller LA, Chang YF. *Analysis of Ultra Low Genome Conservation in Clostridium difficile*. PLoS ONE 2010 Dec; 5(12): e15147. doi: 10.1371/journal.pone.0015147
+[[abstract](http://www.ncbi.nlm.nih.gov/pubmed/21170335)] [[www](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0015147)]
+1. Wojciech Majeran, Giulia Friso, **Lalit Ponnala**, Brian Connolly, Mingshu Huang, Edwin Reidel, Cankui Zhang, Yukari Asakura, Nazmul H. Bhuiyan, Qi Sun, Robert Turgeon and Klaas J. van Wijk. *Structural and Metabolic Transitions of C4 Leaf Development and Differentiation Defined by Microscopy and Quantitative Proteomics in Maize*. The Plant Cell 2010 Nov; 22(11): 3509-3542. doi: 10.1104/tpc.110.079764
+[[abstract](http://www.plantcell.org/content/22/11/3509.abstract)] [[www](http://www.plantcell.org/content/22/11/3509.full)]
+1. Pinghua Li, **Lalit Ponnala**, Neeru Gandotra, Lin Wang, Yaqing Si, S Lori Tausta, Tesfamichael H Kebrom, Nicholas Provart, Rohan Patel, Christopher R Myers, Edwin J Reidel, Robert Turgeon, Peng Liu, Qi Sun, Timothy Nelson and Thomas P Brutnell. *The developmental dynamics of the maize leaf transcriptome*. Nature Genetics 2010 Dec; 42(12): 1060-1067. doi: 10.1038/ng.703
+[[abstract](http://www.nature.com/ng/journal/v42/n12/abs/ng.703.html)] [[www](http://www.nature.com/ng/journal/v42/n12/full/ng.703.html)] [[press release](https://drive.google.com/file/d/1mg19rVZw-zOuPtm2fhmV9ywMAIUUeAuA/view?usp=sharing)]
+1. **Lalit Ponnala**. *A plausible role for the presence of internal Shine-Dalgarno sites*. Bioinformatics and Biology Insights 2010 Jun; 4: 55-60
+[[abstract](http://www.la-press.com/a-plausible-role-for-the-presence-of-internal-shine-dalgarno-sites-article-a2139-abstract)] [[www](https://drive.google.com/file/d/10uSuttOuEPDjvyccqkASZbojolJTgvOp/view?usp=sharing)]
+1. P. B. Olinares, **L. Ponnala** and K. J. van Wijk. *Megadalton complexes in the chloroplast stroma of arabidopsis thaliana characterized by size exclusion chromatography, mass spectrometry and hierarchical clustering*. Molecular and Cellular Proteomics 2010 Jul; 9(7): 1594-1615. doi: 10.1074/mcp.M000038-MCP201
+[[abstract](http://www.mcponline.org/content/9/7/1594)] [[www](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2938090/)]
+1. **Lalit Ponnala**. *Detecting slow-translating regions in E.coli*. International Journal of Bioinformatics Research and Applications 2010; 6(5): 522-530
+[[abstract](http://www.inderscience.com/info/inarticle.php?artid=37990)] [[pdf](https://drive.google.com/file/d/181MKj_yjJR6JvrkZeLlStIW_zCWWD1JG/view?usp=sharing)]
+1. Ramsey J.S., Rider D.S., Walsh T.K., De Vos M., Gordon K., **Ponnala L.**, Macmil S., Roe B.A. and Jander G. *Comparative analysis of detoxification enzymes in Acyrthosiphon pisum and Myzus persicae*. Insect Molecular Biology 2010 Mar; 19(s2): 155-164. doi: 10.1111/j.1365-2583.2009.00973.x
+[[abstract](http://www.ncbi.nlm.nih.gov/pubmed/20482647)] [[pdf](http://onlinelibrary.wiley.com/doi/10.1111/j.1365-2583.2009.00973.x/pdf)]
+1. Oliver H.F., R.H. Orsi, **L. Ponnala**, U. Keich, W. Wang, Q. Sun, S.W. Cartinhour, M. J. Filiatrault, M. Wiedmann, and K.J. Boor. *Deep RNA sequencing of L. monocytogenes reveals overlapping and extensive stationary phase and sigma B-dependent transcriptomes, including multiple highly transcribed noncoding RNAs*. BMC Genomics 2009 Dec; 10:641. 
+[[abstract](http://www.biomedcentral.com/1471-2164/10/641)] [[www](http://www.biomedcentral.com/1471-2164/10/641)]
+1. Schnable PS, D Ware, RS Fulton, JC Stein, F Wei, S Pasternak, C Liang, J Zhang, L Fulton, TA Graves, P Minx, AD Reily, L Courtney, SS Kruchowski, C Tomlinson, C Strong, K Delehaunty, C Fronick, W Courtney, SM Rock, E Belter, F Du, K Kim, RM Abbott, M Cotton, A Levy, P Marchetto, K Ochoa, SM Jackson, B Gillam, W Chen, L Yan, J Higginbotham, M Cardenas, J Waligorski, E Applebaum, L Phelps, J Falcone, K Kanchi, T Thane, A Scimone, N Thane, J Henke, T Wang, J Ruppert, N Shah, K Rotter, J Hodges, E Ingenthron, M Cordes, S Kohlberg, J Sgro, B Delgado, K Mead, A Chinwalla, S Leonard, K Crouse, K Collura, D Kudrna, J Currie, R He, A Angelova, S Rajasekar, T Mueller, R Lomeli, G Scara, A Ko, K Delaney, M Wissotski, G Lopez, D Campos, M Braidotti, E Ashley, W Golser, H Kim, S Lee, J Lin, Z Dujmic, W Kim, J Talag, A Zuccolo, C Fan, A Sebastian, M Kramer, L Spiegel, L Nascimento, T Zutavern, B Miller, C Ambroise, S Muller, W Spooner, A Narechania, L Ren, S Wei, S Kumari, B Faga, M Levy, L McMahan, PV Buren, MW Vaughn, K Ying, CT Yeh, SJ Emrich, Y Jia, A Kalyanaraman, AP Hsia, WB Barbazuk, RS Baucom, TP Brutnell, NC Carpita, C Chaparro, J Chia, J Deragon, JC Estill, Y Fu, JA Jeddeloh, Y Han, H Lee, P Li, DR Lisch, S Liu, Z Liu, DH Nagel, MC McCann, P SanMiguel, AM Myers, DS Nettleton, J Nguyen, BW Penning, **L Ponnala**, KL Schneider, DC Schwartz, A Sharma, C Soderlund, NM Springer, Q Sun, H Wang, M Waterman, R Westerman, TK Wolfgruber, L Yang, Y Yu, L Zhang, S Zhou, Q Zhu, JL Bennetzen, RK Dawe, J Jiang, N Jiang, GG Presting, SR Wessler, S Aluru, RA Martienssen, SW Clifton, WR McCombie, RA Wing, RK Wilson. *The B73 maize genome: complexity, diversity and dynamics*. Science 2009 Nov; 326(5956): 1112-1115. doi: 10.1126/science.1178534
+[[abstract](http://www.sciencemag.org/cgi/content/abstract/326/5956/1112)] [[www](http://www.sciencemag.org/content/326/5956/1112.full)] [[press release](https://drive.google.com/file/d/1DgfHjFH0zgDl3pxkYnYWYd0AezYaDZX8/view?usp=sharing)]
+1. **Ponnala L**. *On finding poorly translated codons based on their usage frequency*. Bioinformation 2009 Sep; 4(2): 63-65
+[[abstract](http://www.bioinformation.net/004/001300042009.htm)] [[pdf](http://www.bioinformation.net/004/001300042009.pdf)]
+1. J. Scaria, R. U. Palaniappan, D. Chiu, J. Phan, **L. Ponnala**, P. McDonough, Y. T. Grohn, S. Porwollik, M. McClelland, C.-S. Chiou, C. Chu, Y.-F. Chang. *Microarray for molecular typing of Salmonella enterica serovars*. Molecular and Cellular Probes 2008 Aug; 22(4): 238-43. doi: 10.1016/j.mcp.2008.04.002
+[[abstract](http://www.ncbi.nlm.nih.gov/pubmed/18554865)] [[www](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2766089/?tool=pubmed)]
+1. **Ponnala L**, Stomp AM, Bitzer DL, Vouk MA. *Analysis of free energy signals arising from nucleotide hybridization between rRNA and mRNA sequences during translation in eubacteria*. EURASIP Journal on Bioinformatics and Systems Biology 2006:23613. doi: 10.1155/BSB/2006/23613
+[[abstract](http://www.ncbi.nlm.nih.gov/pubmed/18427589)] [[www](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3171316/)]
+
+Conference papers
+
+1. **Ponnala L**, Bitzer DL, Stomp A, Vouk MA. *A computational model for reading frame maintenance*. Conf Proc IEEE Eng Med Biol Soc. 2006; 1:4540-3. ISBN: 1-4244-0032-5
+[[abstract](http://www.ncbi.nlm.nih.gov/pubmed/17946637)] [[pdf](https://drive.google.com/file/d/1s2kDnSMM18x64jSO3nLyH8bY8SIgdnNw/view?usp=sharing)]
+1. **Ponnala L**, Stomp A, Bitzer DL, Vouk M. *Statistical significance and biological relevance of a sinusoidal pattern detected in translational free energy signals*. Proc IEEE International Workshop on Genomic Signal Processing and Statistics. 2006; 55-56. ISBN: 1-4244-0384-7
+[[pdf](https://drive.google.com/file/d/1uzpYMljzngXCVkqRBOFXJ5kPyU14eJUg/view?usp=sharing)]
+1. **Ponnala L**, Barnes TM, Bitzer DL, Vouk M, Stomp A. *A signal processing-based model for analyzing programmed frameshifts*. Proc IEEE International Workshop on Genomic Signal Processing and Statistics. 2005; 2:2-3
+[[pdf](https://drive.google.com/file/d/1vzFxEB55nlTeQabYXlUuUjfA3tcvgh-H/view?usp=sharing)]
+1. **Ponnala L**, Barnes TM, Bitzer DL, Vouk M. *Ribosome tail ends as signal detectors for protein production in prokaryotes*. Proc NC Symp Biotech Bioinf. 2004; 15-23. ISBN: 0-7803-8826-7
+[[pdf](https://drive.google.com/file/d/1B-en_NaV9WI85l3BHi05GGq_smGAfbMI/view?usp=sharing)]
+1. **Ponnala L**, Barnes TM, Bitzer DL, Vouk M. *The search for the optimal ribosome 3' tail end in E. coli*. Conf Proc IEEE Eng Med Biol Soc. 2004; 4:2824-7. ISBN: 0-7803-8439-3 
+[[abstract](http://www.ncbi.nlm.nih.gov/pubmed/17270865)] [[pdf](https://drive.google.com/file/d/1OWZvNDZIv0gB8oaQHzzJuI3fzWVxGnDn/view?usp=sharing)]
+1. **Ponnala L**, Bitzer DL, Vouk M. *On finding convolutional code generators for translation initiation of Escherichia Coli K-12*. Conf Proc IEEE Eng Med Biol Soc. 2003; 4:3854-7. ISBN: 0-7803-7789-3
+[[pdf](https://drive.google.com/file/d/1juxRPh9fjnuYbim-DUB_Vr9a9_vpDDLX/view?usp=sharing)]
+
+Preprints
+
+1. **L. Ponnala**. *On the clustering of rare codons and its effect on translation*. [arXiv:0910.0429v1](http://arxiv.org/abs/0910.0429) [q-bio.GN]
+1. **L. Ponnala**, D. L. Bitzer, A. Stomp, M. A. Vouk. *A mechanistic model for +1 frameshifts in eubacteria*. [arXiv:0712.2068v1](http://arxiv.org/abs/0712.2068v1) [q-bio.GN]
+
+Theses
+
+1. **Ponnala L**. *Analysis of Genetic Translation Using Signal Processing*. PhD Dissertation, North Carolina State University, Feb. 2007  ISBN: 978-0-549-54768-6
+[[abstract](http://repository.lib.ncsu.edu/ir/handle/1840.16/4736)] [[pdf](https://drive.google.com/file/d/1AoTw7RWvHfjTDLE761Wy28FIxzrN8zUs/view?usp=sharing)]
+1. **Ponnala L**. *Algorithmic Approach for finding Convolutional Code generators for the Translation Initiation of Escherichia coli K-12*. M.S. Thesis, North Carolina State University, Nov. 2003 
+[[abstract](http://repository.lib.ncsu.edu/ir/handle/1840.16/2092)] [[pdf](https://drive.google.com/file/d/1xl6iSdXGJulnyQR54RTwTAPHrOPvCYdP/view?usp=sharing)]
+
+Presentations
+
+1. Mingshu Huang, Giulia Friso, Yukari Asakura, Robert Turgeon, **Lalit Ponnala**, Qi Sun, Klaas van Wijk. *A High Resolution Structural and Proteomic Atlas of the Developing Rice Leaf*. Plant & Animal Genomes XVII Conference, San Diego, CA, Jan 12-16, 2013 [[abstract](https://drive.google.com/file/d/1g1wVukLr4aqpX535Go3NBnFqKxMVP_cg/view?usp=sharing)]
+1. Giulia Friso, Mingshu Huang, Yukari Asakura, Robert Turgeon, **Lalit Ponnala**, Qi Sun, Klaas J. Van Wijk. *A high resolution structural and proteomics atlas of the developing rice leaf*. 60th ASMS Conference on mass spectrometry and allied topics , May 20 - 24, 2012 , Vancouver, Canada
+1. Anton Poliakov, Yukari Asakura, **Lalit Ponnala**, Klaas J. Van Wijk. *The nuclear proteome of sink and source regions of developing maize leaves: a quantitative analysis based on spectral counting*. ASMS Conference on Mass Spectrometry and Allied Topics, June 5 - 9, 2011, Colorado Convention Center, Denver, CO
+1. Klaas J. Van Wijk, Paul Dominic B. Olinares, Jitae Kim, Anton Poliakov, **Lalit Ponnala**, Giulia Friso. *Structural organization and function of the oligomeric Clp protease in plants determined by QConCAT and spectral counting-based quantitative proteomics*. ASMS Conference on Mass Spectrometry and Allied Topics, June 5 - 9, 2011, Colorado Convention Center, Denver, CO
+1. Pinghua Li, **Lalit Ponnala**, Neeru Gandotra, Lin Wang, Yaqing Si, Lori Tausta, Tesfamichael Kebrom, Nicholas Provart, Rohan Patel, Christopher Myers, Edwin Reidel, Robert Turgeon, Peng Liu, Qi Sun, Timothy Nelson, Thomas P Brutnell. *The developmental dynamics of the maize leaf transcriptome as revealed through ultra high throughput sequencing*. 53rd Annual Maize Genetics Conference, March 17-20, 2011, St. Charles, Illinois USA [[abstract](https://drive.google.com/file/d/15CfUd7MVyQd8nb9KQRynlDJKA5mOt8cJ/view?usp=sharing)]
+1. Mingshu Huang, Wojciech Majeran, Giulia Friso, **Lalit Ponnala**, Brian Connolly, Edwin Reidel, Cankui Zhang, Yukari Asakura, Nazmul H Bhuiyan, Qi Sun, Robert Turgeon, Klaas J van Wijk. *Structural and metabolic transitions of C3 rice and C4 maize leaf development and differentiation determined by a systems biology approach*.  53rd Annual Maize Genetics Conference, March 17-20, 2011, St. Charles, Illinois USA [[abstract](https://drive.google.com/file/d/15CfUd7MVyQd8nb9KQRynlDJKA5mOt8cJ/view?usp=sharing)]
+1. Anton Poliakov, **Lalit Ponnala**, Paul Dominic Olinares, Yukari Asakura and Klaas van Wijk. *A Statistical Solution for Pair-Wise Comparative Proteome Analysis using Large Scale Label-Free Spectral Counting*. Sanibel Conference "From Fragmentation Mechanisms to Sequencing:  Tandem Mass Spectrometry Based Peptide and Protein Identification", St. Pete Beach, Florida, January 21 - 24, 2011
+1. Paul Dominic B. Olinares, **Lalit Ponnala**, Klaas J. Van Wijk. *Probing the oligomeric state of chloroplast proteome in Arabidopsis thaliana by mass spectrometry: megadalton-sized complexes and the Clp protease machinery*. 58th ASMS Conference on Mass Spectrometry, Salt Lake City, Utah, May 23 - 27, 2010
+1. **Lalit Ponnala**. *RNA-Seq: High-throughput transcriptomics*. Next Generation Sequencing Workshop, Cornell University, March 31, 2010 [[outline](https://drive.google.com/file/d/1T6AFEnc4XIRelNqIPNEIxzwP20WZkNib/view?usp=sharing)]
+1. Pinghua Li, **Lalit Ponnala**, Neeru Gandotra, Lori Tausta, Lin Wang, Yaqing Si, Nicholas Provart, Rohan Patel, Chris Myers, Edwin Reidel, Robert Turgeon, Peng Liu, Qi Sun, Tim Nelson, Thomas P. Brutnell. *Characterization of the maize leaf transcriptome through ultra high-throughput sequencing*. 52nd Annual Maize Genetics Conference, March 18 - 21, 2010, Riva del Garda, Italy
+1. **Lalit Ponnala**, Stefan Stefanov, Matha Hamblin, Stephen Kresovich, Lance Cadle-Davidson, Michael Milgroom, Marsha Wallace, John Schimenti, Wei Wang, Peter Schweitzer and Qi Sun. *Genome Complexity Reduction for NGS and a Pipeline for identifying and integrating Genetic Variations across Multiple Samples*. Cambridge Healthtech Institute (CHI) meeting "Next-Generation Sequencing Data Analysis" Sept 21-23, 2009, Providence RI
+1. Pinghua Li, Thomas Brutnell, Peng Liu, Qi Sun and **Lalit Ponnala**. *Software Tools for Analyzing the Maize Leaf Transcriptome*. Cambridge Healthtech Institute (CHI) meeting "Next-Generation Sequencing Data Analysis" Sept 21-23, 2009, Providence RI
+1. P. Li, W. Majeran, **L. Ponnala**, L. Tausta, E. Reidel, A. Nunes-Nesi, G. Friso, B.M. Connolly, N. Gandotra, T. Kebrom, L. Wang, A. Fernie, C. Myers, P. Liu, R. Turgeon, Q. Sun, T. Nelson, K. van Wijk and T.P. Brutnell. *A systems approach to understanding C4 photosynthetic differentiation in maize*. "Plant Biology 2009": Joint Annual Meetings of the American Society of Plant Biologists and the Phycological Society of America, July 18-22, 2009, Honolulu, Hawaii [[abstract](https://drive.google.com/file/d/1NXFDKf_x1V79sjFVu5CiBFkLekeKjRJJ/view?usp=sharing)]
+1. N. Gandotra, L. Tausta, P. Li, E. Reidel, T. Kebrom, **L. Ponnala**, W. Majeran, Q. Sun, P. Liu, T. Brutnell, K. van Wijk, R. Turgeon and T. Nelson. *Comparative Analysis Of C3 And C4 Leaf Development In Rice, Sorghum And Maize*. "Plant Biology 2009": Joint Annual Meetings of the American Society of Plant Biologists and the Phycological Society of America, July 18-22, 2009, Honolulu, Hawaii [[abstract](https://drive.google.com/file/d/1NXFDKf_x1V79sjFVu5CiBFkLekeKjRJJ/view?usp=sharing)]
+1. Pinghua Li, Tesfamichael Kebrom, **Lalit Ponnala**, Edwin Reidel, Qi Sun, Robert Turgeon, Thomas P. Brutnell. *A Systems Biology Approach To Understanding C4 Photosynthetic Development In Maize*. Plant & Animal Genomes XVII Conference, San Diego, CA, January 10-14, 2009
+1. Manish Kohli, Paul G. Rothberg, Peter Schweitzer, Qi Sun, **Lalit Ponnala**, George Grills, Deepak Sahasrabudhe, Edward Messing, Jean Joseph, Wei Wang. *Genetic polymorphism association with hot flashes in prostate cancer patients initiated on androgen deprivation therapy (ADT)*. ASCO-NCI-EORTC Annual Meeting on Molecular Markers in Cancer, Hollywood, Florida, Oct 30-Nov 1, 2008
+1. **Lalit Ponnala**, Qi Sun. *Data mining pipelines for next generation sequencing platforms*. 16th Annual International Conference on Intelligent Systems for Molecular Biology (ISMB), Toronto, Canada, July 17-23, 2008 [[abstract](https://drive.google.com/file/d/1DFAmg3gt__Ssu5R5A0bXKT9MWLMI2qVZ/view?usp=sharing)]
+1. Manish Kohli, Paul G. Rothberg, Peter Schweitzer, Qi Sun, **Lalit Ponnala**, George Grills, Deepak Sahasrabudhe, Edward Messing, Jean Joseph, Wei Wang. *The Prognostic Influence of Inherited Polymorphisms on Prostate Cancer Outcomes*. AACR Special Conference in Cancer Research "Candidate Pathways, Whole Genome Scans: Reconciling Results, Looking into the Future", May 20-23, 2008, Carefree, Arizona
+1. **Lalit Ponnala**, Qi Sun, Data Processing Pipelines for Next Generation Sequencing Platforms. *Life Sciences Research Resources Expo*. Cornell University, Ithaca NY, May 14-15, 2008 [[poster](https://drive.google.com/file/d/1reF_ptF0QmI-BsbduplVmggn9udbCQod/view?usp=sharing)]
+1. **Lalit Ponnala**, *Genomic Signal Processing*. Invited talk given at the Information Systems and Networks seminar, Department of Electrical and Computer Engineering, Cornell University, Feb 27, 2008
+1. Schweitzer P, Sun Q, Wang W, **Ponnala L**, Zhao J, Hover B, Spisak J, Stelick T, VanEe J, Grills G. *Implementation of next generation sequencing technologies as core facility resources*. Association of Biomolecular Resource Facilities (ABRF), Salt Lake City, Utah, Feb 9-12, 2008
+1. Grills G, Schweitzer P, Sun Q, **Ponnala L**, Wang W, Stelick T, Bukowski R, VanEe J. *Application of Massively Parallel Sequencing Technologies as Shared Research Resources*. Advances in Genome Biology and Technology (AGBT), Marco Island, Florida, Feb 6-9, 2008
+1. Pillardy J, Sun Q, Ripoll D, Bukowski R, Myers C, **Ponnala L**. *Computational Biology Service Unit : Microsoft High-Performance Computing Institute*. Northeast Regional Life Sciences Core Directors Meeting, Cornell University, Ithaca NY, Nov 7-9, 2007
+1. Qi Sun and **Lalit Ponnala**. *Data Integration for Genome-wide Association Studies of Human Diseases*. Microsoft eScience meeting at RENCI, UNC Chapel Hill, North Carolina (Oct 21-23, 2007) [[abstract](https://drive.google.com/file/d/1LRgsrBfG74SfVmE5cWFvN0h7htZM3ln9/view?usp=sharing)]
+1. **L Ponnala**, R Bukowski, J VanEe, P Schweitzer, K Simpson and Q Sun. *Data processing strategies for bacterial genome re-sequencing projects using Illumina Solexa technology*. Exploring Next Generation Sequencing: Applications and Case Studies, Cambridge Healthtech Institute (CHI) Meeting (Oct 17-18, 2007) [[poster](https://drive.google.com/file/d/15-RDam_q--KQVz15vsY0Tx81urSNZ_M1/view?usp=sharing)]
+1. Guohong Cai, **Lalit Ponnala**, Qi Sun, Jarek Pillardy and Bill Fry. *Bioinformatic and experimental identification of microRNA in Phytophthora infestans*. Phytophopthora Infestans Genome meeting, Broad Institute of MIT and Harvard (Sept 18-19, 2007) [[presentation](https://drive.google.com/file/d/1lmoOyGWIof49MYQh87PKp5JDeBQVVuRE/view?usp=sharing)]
+1. **L. Ponnala** and A. Stomp. *A computational model for reading frame maintenance*. NC State RNA Biology Group Meeting (March 6, 2007)
+1. **L. Ponnala**. *Steps in frame: decoding the motion of the ribosome*. NC State RNA Biology Group Meeting (Oct 3, 2006)
+1. **L. Ponnala**. *Mechanism of frameshifting in bacteria*. First Annual Duke Systems Biology Symposium, Duke University, Durham, NC (Sept 14-15, 2006)
+1. **Lalit Ponnala**. *Computational Model for Reading Frame Maintenance*. presentation at BioMeet RTP 2006, organized by the International Society for Computational Biology (ISCB) Student Council, Research Triangle Park, NC (Apr 13, 2006)
+1. **L. Ponnala**. *Ribosome-mRNA interaction*. Symposium on RNA Biology VI "RNA, Tool and Target: Small RNAs and RNPs", Research Triangle Park, NC (Oct 21-22, 2005)
+1. **L. Ponnala** and A. Stomp. *mRNA Signal Processing*. NC State RNA Biology Group Meeting (Sept 8, 2005)
+1. **L. Ponnala**. *Frequency-domain analysis of prokaryotic translation*. RNA Society of North Carolina Seminar Series, North Carolina Biotechnology Center, RTP, NC (Aug 23 2005)
+1. **L. Ponnala** and T.M.Barnes. *Genetic Algorithms for finding the optimal ribosome*. Annual Biomedical Engineering Research Review, UNC-CH, Chapel Hill, NC (Apr 16, 2004)
+
+Software
+
+1. GLEE: differential protein expression analysis | stand-alone GUI (Python) : [[github](https://github.com/lponnala/glee-py-gui)] | R package : [[github](https://github.com/lponnala/glee-r-pkg)] | Shiny app : [[live](http://lponnala.shinyapps.io/glee)]
+
+1. Protein expression gradient viewer | written in Microsoft Visual C# [[screenshot](https://drive.google.com/file/d/1X1v1wdT27sLaDbFwRoGB4WujwZ2D1nTH/view?usp=sharing)]
+
+1. RNA-Seq analysis pipeline | developed using PERL [[website](http://cbsuapps.tc.cornell.edu/RNASeq.aspx)] [[screenshot](https://drive.google.com/file/d/13QEurYrAcx4QPsz6K6GemjZVz4sTFNCq/view?usp=sharing)]
+
+1. Genome browser for maize transcriptome visualization | developed using GBrowse [[screenshot](https://drive.google.com/file/d/1vHKeMhBblKcYaNNVcd-NJuqi8LUo6fho/view?usp=sharing)]
+
+1. Survey data uploader for Excel, using a web service | developed using VSTO 2005 [[screenshot](https://drive.google.com/file/d/1_MQgALLFukPzSJA0bNVIsWOthae2GMaY/view?usp=sharing)]
+
+1. Free-energy signal analysis toolbox | developed in MATLAB [[github](https://github.com/lponnala/gsp-toolbox)]
