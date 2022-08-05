@@ -1,6 +1,6 @@
 # website-new
 
-Themes: 
+Themes that look decent
 - Flatly
 - Lux
 - Sandstone 
