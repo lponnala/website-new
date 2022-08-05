@@ -2,8 +2,6 @@
 title: ""
 ---
 
-<h4>Bio</h4>
-
 I am a quantitative analyst in the finance industry, based in New York since 2011. Over the years, I have worked in asset management, market making, risk, regulation, and index research. 
 
 Previously, I was a postdoctoral researcher at [Cornell University](http://www.cornell.edu/), hosted at the [Bioinformatics](https://www.biotech.cornell.edu/core-facilities-brc/facilities/bioinformatics-facility) division of the [Biotechnology Institute](https://www.biotech.cornell.edu/) in [Ithaca](http://www.visitithaca.com/). I worked on computational problems in high-throughput [genomics](https://www.genome.gov/about-genomics/fact-sheets/A-Brief-Guide-to-Genomics) and [quantitative proteomics](https://en.wikipedia.org/wiki/Quantitative_proteomics) in collaboration with life science researchers. <!-- across several departments. I was a resident of [Fall Creek](https://cspmanagement.com/fall-creek-neighborhood-guide/), a member of the local [Toastmasters club](http://ithaca.toastmastersclubs.org/), a volunteer for [CCE-Tompkins](http://ccetompkins.org/your-home-money/consumer-issues-personal-finance/one-on-one-financial-education), and a fairly regular attendee at the [Canaan Institute](http://canaaninstitute.org/mikesmusicblog/venue/the-canaan-institute/) old-time/folk jam sessions. -->
